@@ -5,7 +5,7 @@ The following python script will disable and re-enable Automatic Windows System 
 Source code is included as well as a compiled version.
 
 ## Usage
-To use simply download the latest release [here]().
+To use simply download the latest release [here](https://github.com/GalacticB69/DWAU/releases/latest).
 Unzip the repo after downloading.
 Run the python script with `python DWAU.py`.
 Or alternatively, run the DWAU.exe.
